@@ -1,0 +1,27 @@
+.article-div{
+    margin-top: 150px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+.cities-div{
+    width: 500px;
+}
+.null-div{
+    flex: 1;
+}
+.viaw-div{
+    width:200px;
+}
+.map-image-div{
+    display: flex;
+    height: 300px;
+}
+#map-image{
+    max-height: 100%;
+    width: 100%;
+    margin-left: 20px;
+    margin-right: 20px; 
+    
+}

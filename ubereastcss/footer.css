@@ -1,0 +1,134 @@
+dt{
+    font-family: arial;
+    font-size: 17px;
+}
+p{
+    font-family: arial;
+    font-size: 17px;
+    font-weight: 200;
+    
+}
+h1{
+    font-family: arial;
+    font-size: 30px;
+
+}
+
+
+
+
+.fist-list-div{
+    display: grid;
+    grid-auto-flow: column;
+    
+   
+}
+
+.first-list-1{
+    margin-left: 20px;
+    line-height: 60px;
+   
+}
+.first-list-2{
+    line-height: 60px;
+}
+.first-list-3{
+    line-height: 60px;
+}
+.first-list-4{
+    margin-right: 65px;
+    line-height: 60px;
+}
+
+
+
+.countries-view-div{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.countires-div{
+    align-items: center;
+    margin-right: 12px;  
+}
+.countires{
+    margin-left: 20px;
+}
+.view-div{
+    align-items: center;
+}
+.view{
+    margin-right: 40px;
+}
+
+
+
+
+
+
+.second-liest{
+    display: grid;
+    grid-auto-flow:column ;
+}
+.second-list-1{
+    margin-left: 20px;
+    line-height: 50px;
+}
+.second-list-2{
+    line-height: 50px;
+}
+.second-list-3{
+    line-height: 50px;
+}
+
+
+
+
+
+
+.uber-app-main-div{
+    display: grid;
+    grid-template-columns:1fr 1fr ;
+    margin-top: 80px;
+}
+.uber-app-image-div{
+    display: flex;
+    
+}
+.ubereast-second-log{
+    margin-left: 34px;
+}
+.last-manu{
+    width: 30px;
+}
+.uber-app-div{
+    display: flex;
+    flex-direction: column;
+   
+}
+.playstore-app-div{
+    display: flex;
+    margin-top: 80px;
+    margin-left: 50px;
+}
+.playstore-image{
+    width: 135px;
+}
+
+
+.get-help-div{
+    display: grid;
+    grid-auto-flow: column;
+}
+.get-help-liest1{
+    line-height: 40px;
+}
+.get-help-liest2{
+    line-height: 40px;
+}
+
+
+
+
+
+

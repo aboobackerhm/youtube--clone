@@ -1,0 +1,38 @@
+
+h3{
+    font-family: arial;
+    font-weight: bold;
+    font-size: 30px;
+}
+.section-div{
+    margin-top: 70px;
+    display:grid;
+    grid-template-columns:1fr 1fr 1fr ;
+    
+    
+}
+.section-1photo{
+    width: 100%;
+ 
+}
+.section-2photo{
+    width: 100%;
+    
+}
+.section-3photo{
+    width: 100%;
+    
+}
+.photo1-div{
+    margin-right: 10px;
+
+}
+.photo2-div{
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+.photo3-div{
+    margin-left: 10px;
+
+}
